@@ -354,3 +354,4 @@ public class Game2048 extends JPanel
         game.setLocationRelativeTo(null);
         game.setVisible(true);
     }
+}
