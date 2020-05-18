@@ -8,8 +8,8 @@ import java.util.List;
 
 public class Game2048 extends JPanel
 {
-    private static final Color BG_COLOR = new Color(0xDE6E00);
-    private static final String FONT_NAME = "Arial";
+    private static final Color BG_COLOR = new Color(0xFF8B221F, true);
+    private static final String FONT_NAME = "Times New Roman";
     private static final int TILE_SIZE = 64;
     private static final int TILES_MARGIN = 16;
 
@@ -281,10 +281,10 @@ public class Game2048 extends JPanel
         if (myWin || myLose) {
             g.setColor(new Color(255, 255, 255, 30));
             g.fillRect(0, 0, getWidth(), getHeight());
-            g.setColor(new Color(8, 49, 92));
+            g.setColor(new Color(98, 151, 206));
             g.setFont(new Font(FONT_NAME, Font.BOLD, 48));
             if (myWin) {
-                g.drawString("You won!", 68, 150);
+                g.drawString("Great!", 68, 150);
             }
             if (myLose) {
                 g.drawString("Game over!", 50, 130);
@@ -321,14 +321,14 @@ public class Game2048 extends JPanel
         }
 
         public Color getForeground() {
-            return value < 16 ? new Color(0x776e65) :  new Color(0xf9f6f2);
+            return value < 16 ? new Color(0xDB9D5F) :  new Color(0x725050);
         }
 
         public Color getBackground() {
             switch (value) {
-                case 2:    return new Color(0xeee4da);
-                case 4:    return new Color(0xede0c8);
-                case 8:    return new Color(0x868215);
+                case 2:    return new Color(0xCB9844D2);
+                case 4:    return new Color(0x927B51);
+                case 8:    return new Color(0x8ADE5D);
                 case 16:   return new Color(0xf59563);
                 case 32:   return new Color(0xf67c5f);
                 case 64:   return new Color(0xf65e3b);
