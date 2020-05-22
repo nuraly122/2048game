@@ -1,4 +1,4 @@
-# 2048game
+# 2048 Game
 
 https://drive.google.com/file/d/1Og1geweqiFvNoJrNe05eprX4GRrCUvJ1/view?usp=sharing
 
