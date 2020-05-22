@@ -2,7 +2,7 @@
 
 https://drive.google.com/file/d/1Og1geweqiFvNoJrNe05eprX4GRrCUvJ1/view?usp=sharing
 
-*** General information:
+# General information:
 1.Creating a game for the final exam of Java programming language project.
 
 2.The goal of the project is: to create a program that includes a graphical user interface,
@@ -42,7 +42,7 @@ Here are some tips on how to play 2048 to achieve a higher score:
 
 6.Practice a lot. Experience is one of the greatest mentors one can have. Playing the game a lot will give you a lot of practice and it will allow you to develop different strategies for how to achieve high scores. Be patient and let your experience take you to greater achievements in game.
 
-[[https://drive.google.com/file/d/1nJ1XAP328MP2x8RGaYhp6gBGs4GOKEzX/view?usp=sharing]]
+https://drive.google.com/file/d/1nJ1XAP328MP2x8RGaYhp6gBGs4GOKEzX/view?usp=sharing
 
 
 
