@@ -15,8 +15,6 @@ Estimated budget:Minimal even,free.
 
 Proposed partners:Nobody(Me)
 
-Git repository link:
-
 Contact person: 
 
                 Name:Nuraly Kenzhebekov
