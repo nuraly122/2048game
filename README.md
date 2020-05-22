@@ -17,7 +17,9 @@ Proposed partners:Nobody(Me)
 
 Git repository link:
 
-Contact person: Name:Nuraly Kenzhebekov
+Contact person: 
+
+                Name:Nuraly Kenzhebekov
 
                 Email:nuraly.kenzhebekov@iaau.edu.kg
                 
