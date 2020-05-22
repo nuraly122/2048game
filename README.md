@@ -2,8 +2,6 @@
 2048 Game.   
 Creating a game for the final Java programming language project.
 
-Background > https://www.youtube.com/watch?v=1nlfH0LUJV8 
-
 The goal of the project is: to create a program that includes a graphical user interface,
 files such as a database, work with calendars, including work with projects as well as Try-Catch.
 
