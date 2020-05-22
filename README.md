@@ -1,6 +1,6 @@
 # 2048game
 2048 Game.   
-Creating a game for the final Java programming language project.
+Creating a game for the final exam of Java programming language project.
 
 The goal of the project is: to create a program that includes a graphical user interface,
 files such as a database, work with calendars, including work with projects as well as Try-Catch.
@@ -18,8 +18,11 @@ Proposed partners:Nobody(Me)
 Git repository link:
 
 Contact person: Name:Nuraly Kenzhebekov
+
                 Email:nuraly.kenzhebekov@iaau.edu.kg
+                
                 number:+996755049049
+                
 
 
 
