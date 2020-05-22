@@ -1,5 +1,5 @@
 # 2048game
-** GAME 2048 
+
 [[https://drive.google.com/file/d/1Og1geweqiFvNoJrNe05eprX4GRrCUvJ1/view?usp=sharing]]
 
 *** General information:
@@ -27,7 +27,7 @@ files such as a database, work with calendars, including work with projects as w
                 number:+996755049049
                 
 
-*** Management instruction:
+ # Management instruction:
 
 Here are some tips on how to play 2048 to achieve a higher score:
 
